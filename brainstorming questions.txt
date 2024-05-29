@@ -1,0 +1,22 @@
+1.Overview
+- Total Transactions 
+- Avg. Ticket Price
+- Avg. Trip Duration
+- Avg. Delayed Time
+- % of On Time Trips
+- % of Refunded Transactions
+- Total Transactions during the timeframe
+- Total Revenue during the timeframe
+2. Transactions & Payment
+- What is the main purchase type?
+- What is the main payment method?
+- Which hour of a day/ day of a month register the most purchases?
+- How many days do the customer buy tickets in advance on average?
+- Which 
+
+3. Routes & Trips
+- Which route has the highest rate of delay/cancelled trips
+- What is the main reason for delayed trips
+- Which routes have the longest distance ?
+- Which week of a month has the highest number of trips 
+- 
